@@ -1,6 +1,6 @@
 <h1>Hi, i'im albedim.</h1>
 <br>
-• 💼 I work on [Cortex Development]()<br>
+• 💼 I work on [Cortex Development](www.youtube.com)<br>
 • 📑 I'm a Java $ Web Developer<br>
 • 💻 I mainly work with PHP, Js, SQL, Java<br>
 • 💭 You can contact me on Telegram or Discord<br>
