@@ -1,5 +1,5 @@
-<h1>Hi, i'im albedim.</h1>
-<br>
+Hi, i'im albedim.
+
 • 💼 I work on [Cortex Development](www.youtube.com)<br>
 • 📑 I'm a Java $ Web Developer<br>
 • 💻 I mainly work with PHP, Js, SQL, Java<br>
