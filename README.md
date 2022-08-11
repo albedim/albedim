@@ -1,5 +1,6 @@
 <h1>Hi, i'im albedim.</h1>
 <br>
+< Ecco
 • 💼 I work on Cortex Development<br>
 • 📑 I'm a Java $ Web Developer<br>
 • 💻 I mainly work with PHP, Js, SQL, Java<br>
