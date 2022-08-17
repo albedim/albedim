@@ -1,7 +1,7 @@
 <h1>Hi, i'im albedim.</h1>
 
 • 💼 I work on [Cortex Development](https://discord.gg/c9zt6Tbv)<br>
-• 📑 I'm a Java & Web Developer<br>
+• 📑 I'm a Java & PHP Developer<br>
 • 💻 I mainly work with PHP, Js, SQL, Java<br>
 • 💭 You can contact me on [Telegram](https://t.me/albedim)<br>
 <br>
