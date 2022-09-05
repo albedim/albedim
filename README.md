@@ -6,12 +6,12 @@
 • 💭 You can contact me on [Telegram](https://t.me/albedim)<br>
 
 <h2>Languages</h2>
-  • PHP
-  • Java
-  • JavaScript
-  • SQL
-  • HTML
-  • CSS
+  • PHP<br>
+  • Java<br>
+  • JavaScript<br>
+  • SQL<br>
+  • HTML<br>
+  • CSS<br>
   
 
 <br>
