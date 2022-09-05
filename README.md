@@ -11,7 +11,7 @@
   • JavaScript<br>
   • SQL<br>
   • HTML<br>
-  • CSS<br>
+  • CSS<br><br><br>
   
 > I usually work on Web projects, I have made many web sites like Social media, Online banking sites, Music platforms, online registers and so on...
 > I also work with Java and make Minecraft Plugins of any type to let players have a better game experience!
