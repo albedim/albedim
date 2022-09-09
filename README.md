@@ -11,8 +11,8 @@
   • JavaScript<br>
   • SQL<br>
   • HTML<br>
-  • CSS<br>ì
-  • Learning laravel...<br><br><br><br><br>
+  • CSS<br>
+  • Learning laravel...<br><br><br>
   
 > I usually work on web projects, I have made many web applications so far. Some of theme are:
 Social media, 
