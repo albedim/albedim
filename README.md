@@ -5,19 +5,19 @@
 • 💭 You can contact me on [Telegram](https://t.me/albedim)<br>
 
 <h2>Tecnologies I know</h2>
-  Backend:
+  Backend:<br>
   • PHP<br>
-  • Learning laravel...<br><br><br>
-  • Learning Java Spring...<br><br><br>
+  • Learning laravel...<br>
+  • Learning Java Spring...<br><br>
   
-  FrontEnd:
+  FrontEnd:<br>
   • JavaScript<br>
   • React Js<br>
   • HTML<br>
-  • CSS<br>
+  • CSS<br><br>
   
-  Other:
-  Java
+  Other:<br>
+  Java<br><br>
   
 > I usually work on web projects, I have made many web applications so far. Some of theme are:
 Social media, 
