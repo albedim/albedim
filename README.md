@@ -7,6 +7,7 @@
 <h2>Tecnologies I know</h2>
   Backend:<br>
   • PHP<br>
+  • MySQL<br>
   • Learning laravel...<br>
   • Learning Java Spring...<br><br>
   
@@ -17,7 +18,7 @@
   • CSS<br><br>
   
   Other:<br>
-  Java<br><br>
+  • Java<br><br>
   
 > I usually work on web projects, I have made many web applications so far. Some of theme are:
 Social media, 
