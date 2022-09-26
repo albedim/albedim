@@ -7,18 +7,15 @@
 <h2>Tecnologies I know</h2>
   Backend:<br>
   • PHP<br>
+  • Python (Flask)<br>
   • MySQL<br>
-  • Learning laravel...<br>
   • Learning Java Spring...<br><br>
   
   FrontEnd:<br>
-  • JavaScript<br>
   • React Js<br>
+  • JavaScript<br>
   • HTML<br>
   • CSS<br><br>
-  
-  Other:<br>
-  • Java<br><br>
   
 > I usually work on web projects, I have made many web applications so far. Some of theme are: <br>
   • Social media project <br>
