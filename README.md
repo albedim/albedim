@@ -12,7 +12,7 @@
   • Learning Java Spring...<br><br>
   
   FrontEnd:<br>
-  • React Js<br>
+  • ReactJs<br>
   • JavaScript<br>
   • HTML<br>
   • CSS<br><br>
