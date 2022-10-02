@@ -11,7 +11,7 @@
   • MySQL<br>
   • Learning Java Spring...<br><br>
   
-  FrontEnd:<br>
+  Frontend:<br>
   • ReactJs<br>
   • JavaScript<br>
   • HTML<br>
