@@ -5,7 +5,7 @@
 • 💭 You can contact me on [Telegram](https://t.me/albedim)<br>
 
 <h2>Tecnologies I know</h2>
-  Backend:<br>
+> Backend:<br>
   • PHP<br>
   • Python (Flask)<br>
   • MySQL<br>
