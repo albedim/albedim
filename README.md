@@ -20,8 +20,8 @@
   
  ### About my projects
  I have made many projects so far. I will write some of them: <br>
- EasyEat (Web application for food ordering)<br>
- BNNT (Web Application for online banking)<br>
- Social (Web application for share posts with others)
+ **EasyEat** (Web application for food ordering)<br>
+ **BNNT** (Web Application for online banking)<br>
+ **Social** (Web application for share posts with others)
  
  
