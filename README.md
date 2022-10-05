@@ -1,20 +1,21 @@
-<h1>Hi, i'im Alberto.</h1>
+##Hi, i'im Alberto.</h1>
 
 • 📑 I'm a Java & Full stack web Developer<br>
 • 💻 I mainly work with PHP, SQL, Java & React Js<br>
 • 💭 You can contact me on [Telegram](https://t.me/albedim)<br>
 
-<h2>Tecnologies I know</h2>
+###<h2>Tecnologies I know</h2>
+
   ```http
     GET /api/items/${id}
   ```
-  Backend:<br>
+  ####Backend:<br>
   • PHP<br>
   • Python (Flask)<br>
   • MySQL<br>
   • Learning Java Spring...<br><br>
   
-  Frontend:<br>
+  ####Frontend:<br>
   • ReactJs<br>
   • JavaScript<br>
   • HTML<br>
