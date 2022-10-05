@@ -1,7 +1,7 @@
 ## Hi, i'im Alberto.</h1>
 
-• 📑 I'm a Java & Full stack web Developer<br>
-• 💻 I mainly work with PHP, SQL, Java & React Js<br>
+• 📑 I'm a Full stack web Developer<br>
+• 💻 I mainly work with Javascript, Java, Python & PHP<br>
 • 💭 You can contact me on [Telegram](https://t.me/albedim)<br>
 
 ### <h2>Tecnologies I know</h2>
@@ -17,6 +17,8 @@
   • JavaScript<br>
   • HTML<br>
   • CSS<br><br>
+  
+ ### About my projects
   
 > I usually work on web projects, I have made many web applications so far. Some of theme are: <br>
   • Social media project <br>
