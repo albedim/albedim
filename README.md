@@ -6,9 +6,6 @@
 
 ### <h2>Tecnologies I know</h2>
 
-  ```http
-    GET /api/items/${id}
-  ```
   #### Backend:<br>
   • PHP<br>
   • Python (Flask)<br>
