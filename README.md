@@ -19,10 +19,6 @@
   • CSS<br><br>
   
  ### About my projects
-  
-> I usually work on web projects, I have made many web applications so far. Some of theme are: <br>
-  • Social media project <br>
-  • Online banking project <br>
-  • Music platforms projects <br>
-  • online registers projects <br>
-> I also work with Java and make any type of Minecraft Plugins to let players have a better game experience!
+ dgfdhdfjfdjfd
+ 
+ 
