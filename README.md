@@ -19,6 +19,9 @@
   • CSS<br><br>
   
  ### About my projects
- dgfdhdfjfdjfd
+ I have made many projects so far. I will write some of them:
+ EasyEat (Web application for food ordering)
+ BNNT (Web Application for online banking)
+ Social (Web application for share posts with others)
  
  
