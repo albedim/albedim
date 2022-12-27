@@ -13,7 +13,7 @@
   • MySQL<br>
   
   #### Frontend:<br>
-  • ReactJs<br>
+  • React Js<br>
   • JavaScript<br>
   • HTML<br>
   • CSS<br><br>
@@ -21,7 +21,7 @@
  ### About my projects
  I have made many projects so far. I will write some of them: <br>
  **EasyEat** (Web application for food ordering)<br>
- **BNNT** (Web Application for online banking)<br>
- **Social** (Web application to share posts with others)
+ **FastAppeal** (Web Application for getting the absents in a room just by recording their faces)<br>
+ **Task Manager** (Web application for managing your tasks)
  
  
