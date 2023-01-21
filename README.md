@@ -1,7 +1,7 @@
 ## Hi, i'im Alberto.</h1>
 
 • 📑 I'm a Full stack web Developer<br>
-• 💻 I mainly work with Javascript, Java, Python & PHP<br>
+• 💻 I mainly work with Javascript, Java, & Python<br>
 • 💭 You can contact me on [Telegram](https://t.me/albedim)<br>
 
 ### <h2>Tecnologies I know</h2>
@@ -20,7 +20,7 @@
   
  ### About my projects
  I have made many projects so far. I will write some of them: <br>
- **EasyEat** (Web application for food ordering)<br>
+ **Fryeat** (Web Application for helping people decide what to eat)<br>
  **FastAppeal** (Web Application for getting the absents in a room just by recording their faces)<br>
  **Task Manager** (Web application for managing your tasks)
  
