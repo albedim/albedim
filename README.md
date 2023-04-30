@@ -8,9 +8,13 @@
 
   #### Backend:<br>
   • PHP<br>
-  • Java (Spring boot)<br>
+  • Java (Spring)<br>
+  • Javascript (Node JS)<br>
   • Python (Flask)<br>
+  
+  #### Databases:<br>
   • MySQL<br>
+  • MongoDB<br>
   
   #### Frontend:<br>
   • React Js<br>
