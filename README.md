@@ -9,12 +9,12 @@
   #### Backend:<br>
   • PHP<br>
   • Java (Spring)<br>
-  • Javascript (Node JS)<br>
+  • Javascript (Express.js)<br>
   • Python (Flask)<br>
   
   #### Databases:<br>
   • MySQL<br>
-  • MongoDB<br>
+  • PostgreSQL<br>
   
   #### Frontend:<br>
   • React Js<br>
@@ -24,8 +24,8 @@
   
  ### About my projects
  I have made many projects so far. I will write some of them: <br>
- **Fryeat** (Web Application for helping people decide what to eat)<br>
- **FastAppeal** (Web Application for getting the absents in a room just by recording their faces)<br>
- **Task Manager** (Web application for managing your tasks)
+ **Deleafly** (Track the traffic on your url's easy and fast with our clean dashboard.)<br>
+ **Cryllet** (Create your payment links with Cryllet. Pay and get paid by others using cryptocurrencies)<br>
+ **MyPooling** (Open source web app for car pooling)
  
  
