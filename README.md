@@ -1,10 +1,14 @@
-## Hi, i'im Alberto.</h1>
+## Hey there, i'im Alberto.
 
-• 📑 I'm a Full stack web Developer<br>
-• 💻 I mainly work with Javascript, Java, & Python<br>
-• 💭 You can contact me on [Telegram](https://t.me/albedim)<br>
+• 💻 Full stack web Developer<br>
+• 📑 Curious & Creative <br>
+• 💭 You can find me on [Twitter](https://twitter.com/TheAlbeDim) or [Linkedin](https://t.me/albedim)<br>
 
-### <h2>Tecnologies I know</h2>
+## My stats: <br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=albedim" alt=""/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albedim&layout=compact&theme=vision-friendly-dark" />
+
+## My Skills
 
   #### Backend:<br>
   • PHP<br>
@@ -18,14 +22,17 @@
   
   #### Frontend:<br>
   • React Js<br>
+  • Tailwind CSS<br>
   • JavaScript<br>
   • HTML<br>
   • CSS<br><br>
   
- ### About my projects
+ ## About my projects
  I have made many projects so far. I will write some of them: <br>
+ **Contrycode** (Contrycode is helping 5000+ developers find the right open source projects to contribute to.)<br>
  **Deleafly** (Track the traffic on your url's easy and fast with our clean dashboard.)<br>
  **Cryllet** (Create your payment links with Cryllet. Pay and get paid by others using cryptocurrencies)<br>
  **MyPooling** (Open source web app for car pooling)
+
  
  
