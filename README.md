@@ -6,7 +6,7 @@
 
 ## My stats: <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=albedim" alt=""/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=albedim&layout=compact&theme=vision-friendly-dark" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=albedim&layout=compact" />
 
 ## My Skills
 
