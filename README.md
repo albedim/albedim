@@ -24,6 +24,7 @@
   • React Js<br>
   • Tailwind CSS<br>
   • JavaScript<br>
+  • Typescript<br>
   • HTML<br>
   • CSS<br><br>
   
