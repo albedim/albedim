@@ -3,7 +3,7 @@
 • 👨‍💻 Full stack Web Developer, sometimes mobile too :)<br>
 • 💭 Curious & Creative <br>
 • 📩 This is my commercial email: [albertodimaio05@gmail.com](mailto:albertodimaio05@gmail.com)<br>
-• 📱 You can find me on [Twitter](https://twitter.com/TheAlbeDim)<br> or [Linkedin](https://twitter.com/TheAlbeDim)
+• 📱 You can find me on [Twitter](https://twitter.com/TheAlbeDim) or [Linkedin](https://www.linkedin.com/in/alberto-di-maio-520531285))<br>
 
 
 ## My stats: <br>
