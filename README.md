@@ -2,7 +2,9 @@
 
 • 👨‍💻 Full stack Web Developer, sometimes mobile too :)<br>
 • 💭 Curious & Creative <br>
-• 📱 You can find me on [Twitter](https://twitter.com/TheAlbeDim)<br>
+• 📩 This is my commercial email: [albertodimaio05@gmail.com](mailto:albertodimaio05@gmail.com)<br>
+• 📱 You can find me on [Twitter](https://twitter.com/TheAlbeDim)<br> or [Linkedin](https://twitter.com/TheAlbeDim)
+
 
 ## My stats: <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=albedim" alt=""/>
