@@ -1,8 +1,8 @@
 ## Hey there, i'im Alberto.
 
-• 💻 Full stack web Developer<br>
+• 💻 Full stack Web Developer, sometimes mobile too :)<br>
 • 📑 Curious & Creative <br>
-• 💭 You can find me on [Twitter](https://twitter.com/TheAlbeDim) or [Linkedin](https://linkedin.com/in/alberto-di-maio-520531285)<br>
+• 💭 You can find me on [Twitter](https://twitter.com/TheAlbeDim)<br>
 
 ## My stats: <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=albedim" alt=""/>
