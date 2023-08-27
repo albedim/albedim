@@ -32,7 +32,7 @@
   
  ## About my projects
  I have made many projects so far. I will write some of them: <br><br>
- [Contrycode](https://contrycode.pages.dev) (Contrycode is helping 500+ developers find the right open source projects to contribute to.)<br>
+ [Codymio](https://codymio.pages.dev) (Codymio is helping 500+ developers find the right open source projects to contribute to.)<br>
  [Deleafly](https://deleafly.pages.dev) (Track the traffic on your url's easy and fast with our clean dashboard.)<br>
  [Skilly](https://github.com/albedim/skilly) (Python web framework. Build organized and fast rest api's with Skilly.)<br>
  [Cryllet](https://cryllet-fe.pages.dev) (Create your payment links with Cryllet. Pay and get paid by others using cryptocurrencies)<br>
