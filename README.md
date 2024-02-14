@@ -8,7 +8,9 @@
 
 ## My stats: <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=albedim" alt=""/>
-<img src="https://github-widgetbox.vercel.app/api/skills?languages=html,css,js,ts,react,cpp,tailwind,python,java,mysql,postgresql,mongodb,php,express,xml,json,yaml,git,npm,nodejs&includeNames=true"/>
+<a href="https://github.com/Jurredr/github-widgetbox">
+    <img width="60%" height="60%" src="https://github-widgetbox.vercel.app/api/skills/?names=html,css,js,ts,react,cpp,tailwind,python,java,mysql,postgresql,mongodb,php,express,xml,json,yaml,git,npm,nodejs&includeNames=true"/>
+</a>
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=albedim&layout=compact" />
 
 ## My Skills
