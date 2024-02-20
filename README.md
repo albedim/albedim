@@ -6,7 +6,7 @@
 
 ## More aboout me <br>
 <a href="https://albertodimaio.pages.dev">
-    <img src="https://raw.githubusercontent.com/albedim/github-stats/master/generated/overview.svg#gh-light-mode-only"/>
+    <img src="https://raw.githubusercontent.com/albedim/github-stats/master/generated/overview.svg"/>
 </a>
     
 ## About my projects
