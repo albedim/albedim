@@ -5,7 +5,7 @@
 • 📱 You can find me on [Twitter](https://twitter.com/TheAlbeDim) or [Linkedin](https://www.linkedin.com/in/alberto-di-maio-520531285)<br>
 
 ## More aboout me <br>
-<a style="align-items: center; display:flex;" href="https://albertodimaio.pages.dev">
+<a style="align-items: center; display:flex;" href="https://albertodimaio.com">
     <img src="https://raw.githubusercontent.com/albedim/github-stats/master/generated/overview.svg"/>
     <img width="29%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=albedim"/>
 </a>
