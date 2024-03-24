@@ -12,7 +12,7 @@
     
 ## About my projects
 I have made many projects so far. I will write some of them: <br><br>
-[Bliddo](https://bliddo.com) (Sell your digital guides, articles, small e-books or receipts and share your digital library to the world using your link, earn quickly with your passion.)
+[Bliddo](https://bliddo.com) (Sell your digital guides, articles, small e-books or receipts and share your digital, earn quickly with your passion.)
 [Daker](https://daker-web.pages.dev) (A REST API able to generate millions of different fake users using a dataset containing more than 10 Millions fake users-data.)<br>
 [JudJen](https://judjen.pages.dev) (Share your cringe stories with an anonymous community, read cringe stories and have fun with your friends!)<br>
 [UnBoring](https://unboring.pages.dev) (Bored And Tired of procrastinating? Create and complete some tasks and meet new people.)<br>
