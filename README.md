@@ -1,14 +1,8 @@
-## Hey there, i'im [Alberto](https://albertodimaio.pages.dev).
+## Hey there, i'im [Alberto](https://albertodimaio.com).
 
 • 👨‍💻 Full stack Web Developer, sometimes mobile too :)<br>
 • 📩 This is my commercial email: [albertodimaio05@gmail.com](mailto:albertodimaio05@gmail.com)<br>
 • 📱 You can find me on [Twitter](https://twitter.com/TheAlbeDim) or [Linkedin](https://www.linkedin.com/in/alberto-di-maio-520531285)<br>
-
-## More aboout me <br>
-<a style="align-items: center; display:flex;" href="https://albertodimaio.com">
-    <img src="https://raw.githubusercontent.com/albedim/github-stats/master/generated/overview.svg"/>
-    <img width="29%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=albedim"/>
-</a>
     
 ## About my projects
 I have made many projects so far. I will write some of them: <br><br>
