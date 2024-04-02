@@ -4,7 +4,27 @@
 • 👨‍💻 Full stack Web Developer, sometimes mobile too :)<br>
 • 📩 This is my commercial email: [albertodimaio05@gmail.com](mailto:albertodimaio05@gmail.com)<br>
 • 📱 You can find me on [Twitter](https://twitter.com/TheAlbeDim) or [Linkedin](https://www.linkedin.com/in/alberto-di-maio-520531285)<br>
-    
+
+## Skills
+<div>
+    • HTML/CSS/JS <br>
+    • TS <br>
+    • ReactJS <br>
+    • React Native <br>
+    • NextJS <br>
+    • TailwindCSS <br>
+    • Python <br>
+    • Flask <br>
+    • Java <br>
+    • Spring Boot <br>
+    • MySQL <br>
+    • PostgreSQL <br>
+    • MongoDB <br>
+    • PHP <br>
+    • ExpressJS
+</div>
+
+
 ## About my projects
 These are the best projects I have built so far: <br><br>
 [Bliddo](https://bliddo.com) (Sell your digital guides, articles, small e-books or receipts and share your digital library to the world using your link, earn quickly with your passion.)<br>
