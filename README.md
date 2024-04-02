@@ -1,5 +1,6 @@
-## Hey there, i'im [Alberto](https://albertodimaio.com).
+## Hey there, i'im Alberto.
 
+• 🌐 Check my portfolio [here](https://albertodimaio.com)<br>
 • 👨‍💻 Full stack Web Developer, sometimes mobile too :)<br>
 • 📩 This is my commercial email: [albertodimaio05@gmail.com](mailto:albertodimaio05@gmail.com)<br>
 • 📱 You can find me on [Twitter](https://twitter.com/TheAlbeDim) or [Linkedin](https://www.linkedin.com/in/alberto-di-maio-520531285)<br>
