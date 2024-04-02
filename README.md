@@ -5,7 +5,7 @@
 • 📱 You can find me on [Twitter](https://twitter.com/TheAlbeDim) or [Linkedin](https://www.linkedin.com/in/alberto-di-maio-520531285)<br>
     
 ## About my projects
-I have made many projects so far. I will write some of them: <br><br>
+These are the best projects I have built so far: <br><br>
 [Bliddo](https://bliddo.com) (Sell your digital guides, articles, small e-books or receipts and share your digital library to the world using your link, earn quickly with your passion.)<br>
 [Daker](https://daker-web.pages.dev) (A REST API able to generate millions of different fake users using a dataset containing more than 10 Millions fake users-data.)<br>
 [JudJen](https://judjen.pages.dev) (Share your cringe stories with an anonymous community, read cringe stories and have fun with your friends!)<br>
