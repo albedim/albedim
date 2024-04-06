@@ -7,41 +7,24 @@
 • 📱 You can find me on [Twitter](https://twitter.com/TheAlbeDim) and [Linkedin](https://www.linkedin.com/in/alberto-di-maio-520531285)<br>
 
 ## Skills
-
-<!-- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="JavaScript" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="JavaScript" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="JavaScript" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="JavaScript" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="JavaScript" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="JavaScript" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="JavaScript" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="JavaScript" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="JavaScript" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="JavaScript" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="JavaScript" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="JavaScript" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="JavaScript" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="JavaScript" /> -->
-
-<div>
-    • HTML/CSS/JS <br>
-    • TS <br>
-    • ReactJS <br>
-    • React Native <br>
-    • NextJS <br>
-    • TailwindCSS <br>
-    • Python <br>
-    • Flask <br>
-    • Java <br>
-    • Spring Boot <br>
-    • MySQL <br>
-    • PostgreSQL <br>
-    • MongoDB <br>
-    • PHP <br>
-    • ExpressJS
+<div style="display: flex;">
+    <img src="https://raw.githubusercontent.com/albedim/icons/master/programming_languages/html.svg" width="36" height="36" alt="HTML" />
+    <img src="https://raw.githubusercontent.com/albedim/icons/master/programming_languages/css.svg" width="36" height="36" alt="CSS" />
+    <img src="https://raw.githubusercontent.com/albedim/icons/master/programming_languages/javascript.svg" width="36" height="36" alt="JavaScript" />
+    <img src="https://raw.githubusercontent.com/albedim/icons/master/programming_languages/typescript.svg" width="36" height="36" alt="JavaScript" />
+    <img src="https://raw.githubusercontent.com/albedim/icons/master/programming_languages/react.svg" width="36" height="36" alt="JavaScript" />
+    <img src="https://raw.githubusercontent.com/albedim/icons/master/programming_languages/nextjs.svg" width="36" height="36" alt="JavaScript" />
+    <img src="https://raw.githubusercontent.com/albedim/icons/master/programming_languages/tailwindcss.svg" width="36" height="36" alt="JavaScript" />
+    <img src="https://raw.githubusercontent.com/albedim/icons/master/programming_languages/python.svg" width="36" height="36" alt="JavaScript" />
+    <img src="https://raw.githubusercontent.com/albedim/icons/master/programming_languages/flask.svg" width="36" height="36" alt="JavaScript" />
+    <img src="https://raw.githubusercontent.com/albedim/icons/master/programming_languages/java.svg" width="36" height="36" alt="JavaScript" />
+    <img src="https://raw.githubusercontent.com/albedim/icons/master/programming_languages/spring.svg" width="36" height="36" alt="JavaScript" />
+    <img src="https://raw.githubusercontent.com/albedim/icons/master/programming_languages/mysql.svg" width="36" height="36" alt="JavaScript" />
+    <img src="https://raw.githubusercontent.com/albedim/icons/master/programming_languages/postgresql.svg" width="36" height="36" alt="JavaScript" />
+    <img src="https://raw.githubusercontent.com/albedim/icons/master/programming_languages/mongodb.svg" width="36" height="36" alt="JavaScript" />
+    <img src="https://raw.githubusercontent.com/albedim/icons/master/programming_languages/php.svg" width="36" height="36" alt="JavaScript" />
+    <img src="https://raw.githubusercontent.com/albedim/icons/master/programming_languages/express.svg" width="36" height="36" alt="JavaScript"/>
 </div>
-
 
 ## About my projects
 These are the best projects I have built so far: <br><br>
