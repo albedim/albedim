@@ -28,13 +28,12 @@
 
 ## You can find me on
 <div style="display: flex;">
-    <img src="https://raw.githubusercontent.com/albedim/icons/master/social/x" width="36" height="36" alt="HTML" />
+    <img src="https://raw.githubusercontent.com/albedim/icons/master/social/x.svg" width="36" height="36" alt="HTML" />
     <img src="https://raw.githubusercontent.com/albedim/icons/master/social/linkedin.svg" width="36" height="36" alt="CSS" />
     <img src="https://raw.githubusercontent.com/albedim/icons/master/social/reddit.svg" width="36" height="36" alt="JavaScript" />
 </div>
 
 ## About my projects
-These are the best projects I have built so far: <br><br>
 [Bliddo](https://bliddo.com) (Sell your digital guides, articles, small e-books or receipts and share your digital library to the world using your link, earn quickly with your passion.)<br>
 [Daker](https://daker-web.pages.dev) (A REST API able to generate millions of different fake users using a dataset containing more than 10 Millions fake users-data.)<br>
 [JudJen](https://judjen.pages.dev) (Share your cringe stories with an anonymous community, read cringe stories and have fun with your friends!)<br>
