@@ -4,7 +4,6 @@
 • 🌎 Currently in Naples, Italy<br>
 • 🌐 Check my portfolio [here](https://albertodimaio.com)<br>
 • 📩 This is my commercial email: [albertodimaio05@gmail.com](mailto:albertodimaio05@gmail.com)<br>
-• 📱 You can find me on [Twitter](https://twitter.com/TheAlbeDim) and [Linkedin](https://www.linkedin.com/in/alberto-di-maio-520531285)<br>
 
 ## Skills
 <div style="display: flex;">
