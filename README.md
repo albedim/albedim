@@ -26,6 +26,13 @@
     <img src="https://raw.githubusercontent.com/albedim/icons/master/programming_languages/express.svg" width="36" height="36" alt="JavaScript"/>
 </div>
 
+## You can find me on
+<div style="display: flex;">
+    <img src="https://raw.githubusercontent.com/albedim/icons/master/social/x" width="36" height="36" alt="HTML" />
+    <img src="https://raw.githubusercontent.com/albedim/icons/master/social/linkedin.svg" width="36" height="36" alt="CSS" />
+    <img src="https://raw.githubusercontent.com/albedim/icons/master/social/reddit.svg" width="36" height="36" alt="JavaScript" />
+</div>
+
 ## About my projects
 These are the best projects I have built so far: <br><br>
 [Bliddo](https://bliddo.com) (Sell your digital guides, articles, small e-books or receipts and share your digital library to the world using your link, earn quickly with your passion.)<br>
