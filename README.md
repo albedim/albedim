@@ -28,9 +28,9 @@
 
 ## You can find me on
 <div style="display: flex;">
-    <a href="https://x.com/TheAlbeDim"><img src="https://raw.githubusercontent.com/albedim/icons/master/social/x.svg" width="36" height="36" alt="HTML" /></a>a
-    <a href="https://www.linkedin.com/in/alberto-di-maio-520531285"><img src="https://raw.githubusercontent.com/albedim/icons/master/social/linkedin.svg" width="36" height="36" alt="CSS" />
-    <a href="https://www.reddit.com/user/albedim"><img src="https://raw.githubusercontent.com/albedim/icons/master/social/reddit.svg" width="36" height="36" alt="JavaScript" />
+    <a href="https://x.com/TheAlbeDim"><img src="https://raw.githubusercontent.com/albedim/icons/master/social/x.svg" width="36" height="36" alt="HTML" /></a>
+    <a href="https://www.linkedin.com/in/alberto-di-maio-520531285"><img src="https://raw.githubusercontent.com/albedim/icons/master/social/linkedin.svg" width="36" height="36" alt="CSS" /></a>
+    <a href="https://www.reddit.com/user/albedim"><img src="https://raw.githubusercontent.com/albedim/icons/master/social/reddit.svg" width="36" height="36" alt="JavaScript" /></a>
 </div>
 
 ## About my projects
