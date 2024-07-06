@@ -33,7 +33,7 @@
 </div>
 
 ## About my projects
-[Uteka](https://uteka.pages.dev) (Sell your digital guides, articles, small e-books or receipts and share your digital library to the world using your link, earn quickly with your passion.)<br>
+[Uteka](https://utekafe.pages.dev) (Sell your digital guides, articles, small e-books or receipts and share your digital library to the world using your link, earn quickly with your passion.)<br>
 [Daker](https://daker-web.pages.dev) (A REST API able to generate millions of different fake users using a dataset containing more than 10 Millions fake users-data.)<br>
 [JudJen](https://judjen.pages.dev) (Share your cringe stories with an anonymous community, read cringe stories and have fun with your friends!)<br>
 [UnBoring](https://unboring.pages.dev) (Bored And Tired of procrastinating? Create and complete some tasks and meet new people.)<br>
