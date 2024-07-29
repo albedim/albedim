@@ -1,5 +1,5 @@
 # Hey there, i'im [Alberto](https://albertodimaio.com).
-## Full stack Web Developer, sometimes mobile too :)
+## Full-Stack Software Engineer :)
 
 • 🌎 Currently in Naples, Italy<br>
 • 🌐 Check my portfolio [here](https://albertodimaio.com)<br>
