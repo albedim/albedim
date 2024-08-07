@@ -23,6 +23,7 @@
     <img src="https://raw.githubusercontent.com/albedim/icons/master/programming_languages/mongodb.svg" width="36" height="36" alt="JavaScript" />
     <img src="https://raw.githubusercontent.com/albedim/icons/master/programming_languages/php.svg" width="36" height="36" alt="JavaScript" />
     <img src="https://raw.githubusercontent.com/albedim/icons/master/programming_languages/express.svg" width="36" height="36" alt="JavaScript"/>
+    <img src="https://raw.githubusercontent.com/albedim/icons/master/programming_languages/socketio.svg" width="36" height="36" alt="SocketIO" />
 </div>
 
 ## You can find me on
