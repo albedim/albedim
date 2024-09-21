@@ -1,6 +1,5 @@
 # Hey there, i'im [Alberto](https://albertodimaio.com).
-## Full-Stack Software Engineer :)
-
+## Full-Stack Software Engineer
 
 • 🌎 Currently in Naples, Italy<br>
 • 🌐 Check my portfolio [here](https://albertodimaio.com)<br>
@@ -27,13 +26,6 @@
     <img src="https://raw.githubusercontent.com/albedim/icons/master/programming_languages/socketio.svg" width="36" height="36" alt="SocketIO" />
 </div>
 
-## You can find me on
-<div style="display: flex;">
-    <a href="https://x.com/TheAlbeDim"><img src="https://raw.githubusercontent.com/albedim/icons/master/social/x.svg" width="36" height="36" alt="HTML" /></a>
-    <a href="https://www.linkedin.com/in/alberto-di-maio-520531285"><img src="https://raw.githubusercontent.com/albedim/icons/master/social/linkedin.svg" width="36" height="36" alt="CSS" /></a>
-    <a href="https://www.reddit.com/user/albedim"><img src="https://raw.githubusercontent.com/albedim/icons/master/social/reddit.svg" width="36" height="36" alt="JavaScript" /></a>
-</div>
-
 ## About my projects
 [Bliddo](https://bliddo.com) (Bliddo empowers businesses and individuals to generate custom QR codes and gain real-time insights for every scan.)<br>
 [Uteka](https://utekafe.pages.dev) (Sell your digital guides, articles, small e-books or receipts and share your digital library to the world using your link, earn quickly with your passion.)<br>
@@ -44,6 +36,13 @@
 [Deleafly](https://deleafly.pages.dev) (Track the traffic on your url's easy and fast with our clean dashboard.)<br>
 [Skilly](https://github.com/albedim/skilly) (Python web framework. Build organized and fast rest api's with Skilly.)<br>
 [Cryllet](https://cryllet-fe.pages.dev) (Create your payment links with Cryllet. Pay and get paid by others using cryptocurrencies)<br>
+
+## You can find me on
+<div style="display: flex;">
+    <a href="https://x.com/TheAlbeDim"><img src="https://raw.githubusercontent.com/albedim/icons/master/social/x.svg" width="36" height="36" alt="HTML" /></a>
+    <a href="https://www.linkedin.com/in/alberto-di-maio-520531285"><img src="https://raw.githubusercontent.com/albedim/icons/master/social/linkedin.svg" width="36" height="36" alt="CSS" /></a>
+    <a href="https://www.reddit.com/user/albedim"><img src="https://raw.githubusercontent.com/albedim/icons/master/social/reddit.svg" width="36" height="36" alt="JavaScript" /></a>
+</div>
 
  
  
