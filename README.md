@@ -2,8 +2,7 @@
 ## Full-Stack Software Engineer
 
 • 🌎 Currently in Naples, Italy<br>
-• 🌐 Check my portfolio [here](https://albertodimaio.com)<br>
-• 📩 This is my commercial email: [albertodimaio05@gmail.com](mailto:albertodimaio05@gmail.com)<br>
+• 🌐 Take a look at my portfolio [here](https://albertodimaio.com)<br>
 
 ## Skills
 <div style="display: flex;">
