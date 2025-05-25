@@ -26,7 +26,7 @@
 </div>
 
 ## About my projects
-[Bliddo](https://bliddo.com) (Bliddo empowers businesses and individuals to generate custom QR codes and gain real-time insights for every scan.)<br>
+[Bliddo](https://bliddofe.pages.dev) (Bliddo empowers businesses and individuals to generate custom QR codes and gain real-time insights for every scan.)<br>
 [Uteka](https://utekafe.pages.dev) (Sell your digital guides, articles, small e-books or receipts and share your digital library to the world using your link, earn quickly with your passion.)<br>
 [Daker](https://daker-web.pages.dev) (A REST API able to generate millions of different fake users using a dataset containing more than 10 Millions fake users-data.)<br>
 [JudJen](https://judjen.pages.dev) (Share your cringe stories with an anonymous community, read cringe stories and have fun with your friends!)<br>
