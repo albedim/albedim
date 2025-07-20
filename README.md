@@ -26,7 +26,7 @@
 </div>
 
 ## About my projects
-[Kodegee](https://kodegeefe.pages.dev) (We’re on a mission to make open source simple, social, and accessible to everyone.)
+[Kodegee](https://kodegeefe.pages.dev) (We’re on a mission to make open source simple, social, and accessible to everyone.)<br>
 [Bliddo](https://bliddofe.pages.dev) (Bliddo empowers businesses and individuals to generate custom QR codes and gain real-time insights for every scan.)<br>
 [Uteka](https://utekafe.pages.dev) (Sell your digital guides, articles, small e-books or receipts and share your digital library to the world using your link, earn quickly with your passion.)<br>
 [Daker](https://daker-web.pages.dev) (A REST API able to generate millions of different fake users using a dataset containing more than 10 Millions fake users-data.)<br>
