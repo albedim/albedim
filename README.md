@@ -7,4 +7,4 @@ I’m particularly interested in electronics, artificial intelligence, and apply
 
 - Learning in public on <a href="https://www.twitch.tv/albedim">Twitch</a> or <a href="https://www.monica.dev">albertodimaio.com</a> 📹 ✍️  
 - Sharing thoughts and updates on <a href="https://x.com/TheAlbeDim">X (Twitter)</a> 🐦  
-- Connecting on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
+- Connecting on <a href="https://www.linkedin.com/in/alberto-di-maio-520531285">LinkedIn</a> 💼
