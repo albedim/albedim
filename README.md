@@ -5,6 +5,6 @@ I’m particularly interested in electronics, artificial intelligence, and apply
 
 ## Find me around the web 🌍
 
-- Learning in public on <a href="https://www.twitch.tv/albedim">Twitch</a> or <a href="https://www.monica.dev">albertodimaio.com</a> 📹 ✍️  
+- Learning in public on <a href="https://www.twitch.tv/albedim">Twitch</a> or <a href="https://www.albertodimaio.com">albertodimaio.com</a> 📹 ✍️  
 - Sharing thoughts and updates on <a href="https://x.com/TheAlbeDim">X (Twitter)</a> 🐦  
 - Connecting on <a href="https://www.linkedin.com/in/alberto-di-maio-520531285">LinkedIn</a> 💼
