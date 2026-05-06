@@ -1,7 +1,8 @@
 # Hi, I'm Alberto 👋 💻
 
-I’m a software engineer and computer engineering student who enjoys building stuff.</br>
-I’m particularly interested in electronics, artificial intelligence, and applying mathematical models to real-world problems. I like building in public, experimenting quickly, and turning ideas into fully working products, </br>I work with different technologies that I use to develop a wide range of projects, from personal experiments to small startup concepts and commissioned work. I tend to spend more time building than sleeping for sure.
+I’m a software engineer and computer engineering student who enjoys building real things. I’m especially interested in electronics, artificial intelligence, and applying mathematical models to solve real-world problems.
+I like building in public, experimenting quickly, and turning ideas into fully working products. I work with a range of technologies to create everything from personal experiments to small startup concepts and commissioned projects.
+I probably spend more time building than sleeping.
 
 ## Find me around the web 🌍
 
