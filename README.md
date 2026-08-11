@@ -5,7 +5,6 @@ I like building in public, experimenting quickly, and turning ideas into fully w
 
 ## Find me around the web
 
-- Learning in public on <a href="https://www.twitch.tv/albedim">Twitch</a>
-- Sharing thoughts and updates on <a href="https://x.com/TheAlbeDim">X (Twitter)</a>
+- Learning in public on <a href="https://x.com/TheAlbeDim">X (Twitter)</a> and <a href="https://www.twitch.tv/albedim">Twitch</a>
+- My personal website <a href="https://www.albertodimaio.com">albertodimaio.com</a>
 - Connecting on <a href="https://www.linkedin.com/in/alberto-di-maio-520531285">LinkedIn</a>
-- My personal website <a href="https://www.albertodimaio.com">albertodimaio.com</a>  
