@@ -1,7 +1,7 @@
 # Hi, I'm Alberto 👋 💻
 
-I’m a software engineer and computer engineering student who enjoys building real things, I’m especially interested in electronics, artificial intelligence, and applying mathematical models to solve real-world problems.
-I like building in public, experimenting quickly, and turning ideas into fully working products. I work with a range of technologies to create everything from personal projects to small startup concepts and commissioned projects. I’m currently working on my new startup, [Simupp](https://simupp.com). I probably spend more time building than sleeping.
+I’m a computer and electronics engineer and I'm very passionate about building real things and working on software, machine learning, deep learning, and computer hardware. I enjoy building in public, experimenting with new ideas, and turning them into fully working products. You can find some of my projects on my website below. I’m currently building my new SaaS, [Simujo](https://simupp.com) and yeah, I I probably spend more time building than sleeping.
+
 
 ## Find me around the web
 
