@@ -5,6 +5,6 @@ I’m a computer and electronics engineer and I'm very passionate about building
 
 ## Find me around the web
 
-- Learning in public on <a href="https://x.com/Treetoz">X (Twitter)</a> and <a href="https://www.twitch.tv/treetoz">Twitch</a>
+- Learning in public on <a href="https://x.com/ThealbeDim">X (Twitter)</a> and <a href="https://www.twitch.tv/treetoz">Twitch</a>
 - My personal website <a href="https://www.albertodimaio.com">albertodimaio.com</a>
 - Connecting on <a href="https://www.linkedin.com/in/alberto-di-maio-520531285">LinkedIn</a>
